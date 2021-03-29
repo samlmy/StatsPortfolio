@@ -31,15 +31,15 @@ Data Visualization: ggplot, Tableau, PowerPoint
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samlmy/DigitalCV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Academic Projects
-1. Percent Body Fat Regression Model [https://github.com/samlmy/BodyFat302.git]
+1. [Percent Body Fat Regression Model](https://github.com/samlmy/BodyFat302.git)
 Using simple and multiple regression analysis to derive a model to estimate a patient's percent body fat using measuring data.
 Relevant Skills: Rstudio, Regression Analysis
 
-2. Cross-stitch Pattern [https://github.com/samlmy/CrossStitch.git]
+2. [Cross-stitch Pattern](https://github.com/samlmy/CrossStitch.git)
 Several R functions built to create a cross-stitch pattern for an image, using k-means clustering.
 Relevant Skills: Rstudio, Machine Learning
 
-3. IMDb Rating vs. Movie Genres [https://github.com/samlmy/dataVis.git]
+3. [IMDb Rating vs. Movie Genres](https://github.com/samlmy/dataVis.git)
 The illustration explores whether the films shot in Toronto since 2000 received similar ratings by IMDb users and the agencies. The original dataset contains 268 movies shot in Toronto, and 26 dimensions.
 Relevant Skill: PowerPoint, Data Visualization
 
