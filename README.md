@@ -2,45 +2,22 @@
 [LinkedIn](https://github.com/samlmy/DigitalCV/edit/main/README.md)
 
 ### Education
-University of Toronto Statistics and Cognitive Science double major (2018-Current)
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+University of Toronto: Statistics and Cognitive Science double major (2018-Current)
 
 ### Interests and Skills
-Data Analysis: Rstudio
-Data Visualization: ggplot, Tableau, PowerPoint
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samlmy/DigitalCV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Data Analysis: Rstudio<br/>
+Data Visualization: ggplot, Tableau, PowerPoint<br/>
 
 ### Academic Projects
-1. [Percent Body Fat Regression Model](https://github.com/samlmy/BodyFat302.git)
-Using simple and multiple regression analysis to derive a model to estimate a patient's percent body fat using measuring data.
-Relevant Skills: Rstudio, Regression Analysis
+1. [Percent Body Fat Regression Model](https://github.com/samlmy/BodyFat302.git)<br/>
+Using simple and multiple regression analysis to derive a model to estimate a patient's percent body fat using measuring data.<br/>
+Relevant Skills: Rstudio, Regression Analysis<br/>
 
 2. [Cross-stitch Pattern](https://github.com/samlmy/CrossStitch.git)<br/>
 Several R functions built to create a cross-stitch pattern for an image, using k-means clustering.<br/>
 Relevant Skills: Rstudio, Machine Learning<br/>
 
-3. [IMDb Rating vs. Movie Genres](https://github.com/samlmy/dataVis.git)
-The illustration explores whether the films shot in Toronto since 2000 received similar ratings by IMDb users and the agencies. The original dataset contains 268 movies shot in Toronto, and 26 dimensions.
-Relevant Skill: PowerPoint, Data Visualization
+3. [IMDb Rating vs. Movie Genres](https://github.com/samlmy/dataVis.git)<br/>
+The illustration explores whether the films shot in Toronto since 2000 received similar ratings by IMDb users and the agencies. The original dataset contains 268 movies shot in Toronto, and 26 dimensions.<br/>
+Relevant Skill: PowerPoint, Data Visualization<br/>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
