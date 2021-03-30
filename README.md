@@ -34,9 +34,9 @@ Using simple and multiple regression analysis to derive a model to estimate a pa
 2. <b>Cross-stitch Pattern</b><br/>
 Several R functions built to create a cross-stitch pattern for an image, using k-means clustering.<br/>
 <b>Relevant Skills:</b> Rstudio, Machine Learning<br/>
-[Leanr More on Github](https://github.com/samlmy/CrossStitch.git)
+[Learn More on Github](https://github.com/samlmy/CrossStitch.git)
 
 3. <b>IMDb Rating vs. Movie Genres</b><br/>
 The illustration explores whether the films shot in Toronto since 2000 received similar ratings by IMDb users and the agencies. The original dataset contains 268 movies shot in Toronto, and 26 dimensions.<br/>
 <b>Relevant Skills:</b> PowerPoint, Data Visualization<br/>
-[IMDb Rating vs. Movie Genres](https://github.com/samlmy/dataVis.git)
+[Learn More on Github](https://github.com/samlmy/dataVis.git)
