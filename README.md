@@ -11,7 +11,7 @@ Cognitive Science Major (Computational Cognition Stream)<br/>
 ### Skills and Interests
 <b>Hard Skills</b><br/>
 <ul>
-  <li><b>Programming Languages:</b> Python, Java, C#, R<br/></li>
+  <li><b>Programming Languages:</b> Python, Java, C#, R, SQL<br/></li>
   <li><b>Data Analysis:</b> Rstudio<br/></li>
   <li><b>Data Visualization:</b> ggplot, Tableau, PowerPoint<br/></li>
   <li><b>Language:</b> English, Chinese(Mandarin)<br/></li>
@@ -40,3 +40,8 @@ Several R functions built to create a cross-stitch pattern for an image, using k
 The illustration explores whether the films shot in Toronto since 2000 received similar ratings by IMDb users and the agencies. The original dataset contains 268 movies shot in Toronto, and 26 dimensions.<br/>
 <b>Relevant Skills:</b> PowerPoint, Data Visualization<br/>
 [Learn More on Github](https://github.com/samlmy/dataVis.git)
+
+4. <b>Gender in workplace</b><br/>
+The goal of the project is to explore gender injustice in the Canadian workfield. It was a group project; I designed the first two graphs and put everything together in the github page.<br/>
+<b>Relevant Skills:</b> Tableau, Data Visualization<br/>
+[Learn More on Github](https://samlmy.github.io/STA313Final/)
