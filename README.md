@@ -48,6 +48,11 @@ Using regression analysis to derive a model that estimates a patient's body fat 
 <b>Relevant Skills:</b> Rstudio, Regression Analysis<br/>
 [Learn More on Github](https://github.com/samlmy/BodyFat302.git)
 
+5. <b>Black Saber Consulting Report</b><br/>
+Using R to visualize and analyze the hiring data of Black Saber Software Company; reporting and synthesizing critical information that helps to resolve the client's question.<br/>
+<b>Relevant Skills:</b> Rstudio, Data Analysis, Technical Writing<br/>
+[Learn More on Github](https://github.com/samlmy/BlackSaberConsultingReport)
+
 
 
 
