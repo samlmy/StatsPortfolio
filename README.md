@@ -1,14 +1,8 @@
 ## Mingyang Li 
 mingyangsamli@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/sam-li-2a869619a)
-
-### Education
-<b>University of Toronto, St George Campus</b><br/>
-Bachelor of Science (September 2018 - Present)<br/>
-Programs:<br/>
-Statistics Major<br/>
-Cognitive Science Major (Computational Cognition Stream)<br/>
+I am a fourth year Statistics student with a passion for Artificial Intelligence and Software Design. I strive to design for clarity and simplicity, while intergrating my
+knowledge of Cognitive Psychology. This page contains a list of my projects that demonstrates my skills in data science.
 
 ### Projects
 1. <b>Gender in workplace</b><br/>
