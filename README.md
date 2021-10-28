@@ -2,7 +2,7 @@
 mingyangsamli@gmail.com
 
 I am a fourth year Statistics student with a passion for Artificial Intelligence and Software Design. I strive to design for clarity and simplicity, while intergrating my
-knowledge of Cognitive Psychology. This page contains a list of my projects that demonstrates my skills in data science.
+knowledge of Cognitive Psychology. This page contains a list of my projects that demonstrate my skills in data science.
 
 ### Projects
 1. <b>Gender in workplace</b><br/>
