@@ -10,23 +10,6 @@ Programs:<br/>
 Statistics Major<br/>
 Cognitive Science Major (Computational Cognition Stream)<br/>
 
-### Skills
-<b>Hard Skills</b><br/>
-<ul>
-  <li><b>Programming Languages:</b> Python, Java, C#, R, SQL<br/></li>
-  <li><b>Data Analysis:</b> Rstudio<br/></li>
-  <li><b>Data Visualization:</b> ggplot, Tableau, PowerPoint<br/></li>
-  <li><b>Language:</b> English, Chinese(Mandarin)<br/></li>
-</ul>
-
-<b>Soft Skills</b><br/>
-<ul>
-  <li>Analytical<br/></li>
-  <li>Collaboration<br/></li>
-  <li>Communication<br/></li>
-  <li>Leadership<br/></li>
-</ul>
-
 ### Projects
 1. <b>Gender in workplace</b><br/>
 The goal of the project is to explore gender injustice in the Canadian workfield. It was a group project; my role was to design the first two graphs and combine work on the github page.<br/>
